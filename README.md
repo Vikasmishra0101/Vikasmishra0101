@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikasmishra0101
 - 👀 I’m interested in java and web devlopment 
 - 🌱 I’m currently learning java and web devlopment
-- 💞️ I’m looking to collaborate on frontend
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me kvm8726@!gmail.com
 
 <!---
